@@ -1,5 +1,6 @@
 # tutorial-django
 
+## Django version 1.11.1
 For run server
 
 ```sh
